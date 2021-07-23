@@ -1,4 +1,4 @@
 # Cat-on-Oak
-(Deno) Template engine for Oak, but can be used on others.
+(Deno) Template engine for Deno
 
 Check wiki for more info.
